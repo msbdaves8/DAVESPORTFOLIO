@@ -27,7 +27,7 @@ body{
       flex-wrap: wrap;
  }
 
-  .logo.png{
+  .dave.png{
     width: 140px;
   }
 
@@ -68,7 +68,7 @@ body{
 .header-text h1 span{
   color: #00b3ff; 
 }
-.back-video{
+.video{
   position: absolute;
   right: 0;
   bottom: 0;
